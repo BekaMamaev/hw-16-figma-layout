@@ -393,6 +393,7 @@ footer {
 
 .details {
     display: flex;
+    justify-content: center;
 }
 
 .logo-social img {
